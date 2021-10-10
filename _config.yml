@@ -76,7 +76,7 @@ content:
     layout: list
     content:
       - layout: top-left
-        - title: MSC
+        title: MSC
         sub_title: software engineering at Ferdowsi University of Mashhad
         caption: 2019 - till now 
         quote: >
@@ -93,7 +93,7 @@ content:
           - advanced database 
           - advanced algorithem
 
-        - title: BSC
+        title: BSC
         sub_title: software engineering at Ferdowsi University of Mashhad
         caption: 2015 - 2019
         quote: >
@@ -112,7 +112,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       - drawing (water color - hyper real), sculpturing
       - riding a bike and playing basket ball
-  
+
       
 # Footer
 footer_show_references: true
