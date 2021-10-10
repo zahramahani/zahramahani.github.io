@@ -46,7 +46,7 @@ content:
   - title: Experiances # Title for the section
     layout: list # Type of content section (list/text)
     content:
-       - layout: left
+      - layout: left
         title: summer school of data
         quote: >
           Mashhad Municipality
