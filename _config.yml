@@ -92,6 +92,20 @@ content:
           - knowlege base management 
           - advanced database 
           - advanced algorithem
+      - layout: top-left  
+        title: BSC
+        sub_title: software engineering at Ferdowsi University of Mashhad
+        caption: 2015 - 2019
+        quote: >
+          Accepted in the entrance exam (2080 th person out of 50000 people) 
+        description: | # this will include new lines to allow paragraphs
+          Grade: 17.60
+          Major Passed Courses: 
+          - data analysis
+          - machine learning
+          - security
+          - software test
+          - software design
 
         
       
