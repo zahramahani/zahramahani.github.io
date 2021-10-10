@@ -46,6 +46,17 @@ content:
   - title: Experiances # Title for the section
     layout: list # Type of content section (list/text)
     content:
+       - layout: left
+        title: summer school of data
+        quote: >
+          Mashhad Municipality
+          Jul 2020 - Jul 2020
+        description: | # this will include new lines to allow paragraphs
+          I participated in this school and could learn about algorithem - Machine learning methods - big data - softwares like tableau relating to data.
+          
+          
+          ![certificate](/images/z amirmahani.jpg)
+          
       - layout: left
         title: javaspring internship
         quote: >
@@ -53,7 +64,7 @@ content:
           Jun 2020 - Jul 2020
         description: | # this will include new lines to allow paragraphs
           In this enternship i could learn jdbc, hibernate and creating web service with java.
-          
+      
       - layout: left
         title: Teaching Assistant
         quote: >
@@ -79,17 +90,7 @@ content:
           I participated in a software development internship held in summer 2019 at Part college and in the end they hired me in the data section of this company as i wanted.
           i could learn node js in back part. aureilla- html-css- sass in front part and postgresql as database.
           
-      - layout: left
-        title: summer school of data
-        quote: >
-          Mashhad Municipality
-          Jul 2020 - Jul 2020
-        description: | # this will include new lines to allow paragraphs
-          I participated in this school and could learn about algorithem - Machine learning methods - big data - softwares like tableau relating to data.
-          
-          
-          ![certificate](/images/z amirmahani.jpg)
-          
+      
       - layout: left
         title: Teaching Assistant
         quote: >
@@ -100,18 +101,61 @@ content:
           
       
           
-  - title: Experience
+  - title: projects
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+      - layout: left
+        title: Master Thesis
+        sub_title: Feb 2020 - Jan 2019
+#         caption: Date Range (eg. November 2016 - present)
+#         link: Link to company (optional)
+#         quote: >
+#           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          finding entity  form text  input with the help of deep neurall networks.
+          
+     - layout: left
+        title: Master Thesis
+        sub_title: Feb 2020 - present
+#         caption: Date Range (eg. November 2016 - present)
+#         link: Link to company (optional)
+#         quote: >
+#           Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          finding entity  form text  input with the help of deep neurall networks.
+          
+      - layout: left
+        title: nlp on corona datas
+        sub_title: 2020
+#         caption: Date Range (eg. November 2016 - present)
+#         link: Link to company (optional)
+#         quote: >
+#           Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          we processed some data of corona which where the qustions asked by people in social medias.
+          
+     - layout: left
+        title: BSC project
+        sub_title: Feb 2018 - Sep 2019
+#         caption: Date Range (eg. November 2016 - present)
+#         link: Link to company (optional)
+#         quote: >
+            Examining the pattern of electricity consumption with the help of machine learning.
+        description: | # this will include new lines to allow paragraphs.
+          implementation was on matlab.
+          
+     - layout: left
+        title: Baby care doll
+        sub_title: 2017
+#         caption: Date Range (eg. November 2016 - present)
+#         link: Link to company (optional)
+#         quote: >
+#           Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          i used 2 arduino and 2 nrf which could comunicate to each other. one in a doll which was listening and if the baby would cry then the other arduino wolud start alerting. 
+          
+
+          
   - title: Education
     layout: list
     content:
