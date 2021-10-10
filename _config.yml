@@ -48,38 +48,55 @@ content:
     content:
       - layout: left
         title: data engineer - data analyst 
-#         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#         link_text: Link Text
-#         additional_links:
-#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#             icon: fab fa-github
-#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#             icon: fab fa-github
-#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          working in data engineering and data analysis section of <a href="https://www.partdp.ir"> part </a> company for 2 years.\
-          Oct 2019 - Present
+          working in data engineering and data analysis section of <a href="https://www.partdp.ir"> part </a> company for 2 years.
+           (Oct 2019 - Present)
         description: | # this will include new lines to allow paragraphs
-          in this section, I and my co-workers are working on databases (postgresql- mongodb -redis -sqlite) and trying to manage replicas,failover and fail back.\
-          in this 2 years i colud improve the serach speed of postgresql with writing custom parser and i was able to analyse some data. now i am working on big datas (hdfs- map reduce -yarn of hadoop  and spark)\
+          in this section, me and my co-workers are working on databases (postgresql - mongodb - redis - sqlite) and trying to manage replicas,failover and fail back.
+          in this 2 years i colud improve the search speed of postgresql with writing custom parser and i was able to analyse some data. now i am working on big datas (hdfs - map reduce - yarn of hadoop and spark).
           
       - layout: left
         title: software development  internship
-#         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#         link_text: Link Text
-#         additional_links:
-#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#             icon: fab fa-github
-#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#             icon: fab fa-github
-#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           Jul 2019 - Sep 2019
         description: | # this will include new lines to allow paragraphs
-          I participated in a software development internship held in summer 2019 at Part college and in the end they hired me in the data section of this company as i wanted .\
-          i could learn node js as backend. aureilla- html-css- sass as front end and postgresql as database.
+          I participated in a software development internship held in summer 2019 at Part college and in the end they hired me in the data section of this company as i wanted.
+          i could learn node js in back part. aureilla- html-css- sass in front part and postgresql as database.
+          
+      - layout: left
+        title: summer school of data
+        quote: >
+          Mashhad Municipality
+          Jul 2020 - Jul 2020
+        description: | # this will include new lines to allow paragraphs
+          I participated in this school and could learn about algorithem - Machine learning methods - big data - softwares like tableau relating to data.
+          ![certificate](/images/z amirmahani.jpg)
+          
+      - layout: left
+        title: javaspring internship
+        quote: >
+          FANAP
+          Jun 2020 - Jul 2020
+        description: | # this will include new lines to allow paragraphs
+          In this enternship i could learn jdbc, hibernate and creating web service with java.
+          
+      - layout: left
+        title: Teaching Assistant
+        quote: >
+          Ferdowsi University of Mashhad
+          Feb 2020 - Jun 2020
+        description: | # this will include new lines to allow paragraphs
+          Bigdata course teached by Dr.ensan
+          
+      - layout: left
+        title: Teaching Assistant
+        quote: >
+          Ferdowsi University of Mashhad
+          Oct 2018 - Jan 2019
+        description: | # this will include new lines to allow paragraphs
+          signal processing teached by Dr.sadoghi
+          
+      
           
   - title: Experience
     layout: list
