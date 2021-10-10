@@ -40,7 +40,7 @@ linkedin_username: zahra-mahani-9290aa141
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/zahra.png
-about_content: Im zahra Amirmahani from Kerman/Iran. im 25 years old. my Research Interests are data mining, big data and natural language processing. i am working in data engineering and data analysis section of <a href="https://www.partdp.ir"> part </a> company for 2 years besides of educating in MSC.
+about_content: Im zahra Amirmahani from Kerman/Iran. im 25 years old. my Research Interests are data mining, big data and natural language processing. I am working in data engineering and data analysis section of <a href="https://www.partdp.ir"> part </a> company for 2 years besides of educating in MSC.
 
 content:
   - title: Experiances # Title for the section
@@ -109,7 +109,7 @@ content:
           finding entity  form text  input with the help of deep neurall networks.
           
       - layout: left
-        title: nlp on corona datas
+        title: NLP on corona data
         sub_title: 2020
         description: | # this will include new lines to allow paragraphs
           we processed some data of corona which where the qustions asked by people in social medias.
