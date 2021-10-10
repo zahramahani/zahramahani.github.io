@@ -42,6 +42,7 @@ linkedin_username: zahra-mahani-9290aa141
 about_profile_image: images/zahra.png
 about_content: I'm zahra Amirmahani, 25 years old, from Kerman/Iran. my Research Interests are Data mining, Big data and Natural Language Processing.I have been working in the data engineering and data analysis department of the <a href="https://www.partdp.ir"> part </a> company for 2 years besides of educating in MSC.
 
+
 content:
   - title: Experiances # Title for the section
     layout: list # Type of content section (list/text)
@@ -98,7 +99,8 @@ content:
           Oct 2018 - Jan 2019
         description: | # this will include new lines to allow paragraphs
           signal processing teached by Dr.sadoghi.
-          
+           
+           
   - title: Projects
     layout: list
     content:   
@@ -171,7 +173,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
     
-      - Java
+      - Java - Spring
       - Big Data
       - Nodejs
       - DataAnalysis
@@ -183,7 +185,6 @@ content:
         - matplotlib
       - Software test
       - C
-      - Java
       - Git
       - PostgreSql - Redis - Sqlite - Mongodb
       - Aureilla - html - css - sass
