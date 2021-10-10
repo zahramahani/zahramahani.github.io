@@ -43,24 +43,44 @@ about_profile_image: images/zahra.png
 about_content: Im zahra Amirmahani from Kerman/Iran. im 25 years old. my Research Interests are data mining, big data and natural language processing. i am working in data engineering and data analysis section of <a href="https://www.partdp.ir"> part </a> company for 2 years besides of educating in MSC.
 
 content:
-  - title: Projects # Title for the section
+  - title: Experiances # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: data engineer - data analyst 
+#         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#         link_text: Link Text
+#         additional_links:
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          working in data engineering and data analysis section of <a href="https://www.partdp.ir"> part </a> company for 2 years.\
+          Oct 2019 - Present
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          in this section, I and my co-workers are working on databases (postgresql- mongodb -redis -sqlite) and trying to manage replicas,failover and fail back.\
+          in this 2 years i colud improve the serach speed of postgresql with writing custom parser and i was able to analyse some data. now i am working on big datas (hdfs- map reduce -yarn of hadoop  and spark)\
+          
+      - layout: left
+        title: software development  internship
+#         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#         link_text: Link Text
+#         additional_links:
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Jul 2019 - Sep 2019
+        description: | # this will include new lines to allow paragraphs
+          I participated in a software development internship held in summer 2019 at Part college and in the end they hired me in the data section of this company as i wanted .\
+          i could learn node js as backend. aureilla- html-css- sass as front end and postgresql as database.
+          
   - title: Experience
     layout: list
     content:
@@ -79,7 +99,7 @@ content:
       - layout: top-left
         title: MSC
         sub_title: software engineering at Ferdowsi University of Mashhad
-        caption: 2019 - till now 
+        caption: Sep 2019 - Present
         quote: >
           Accepted in the entrance exam as well as brilliant talent (7th person out of 72 class mate in BSC) 
         description: | # this will include new lines to allow paragraphs
@@ -96,7 +116,7 @@ content:
       - layout: top-left  
         title: BSC
         sub_title: software engineering at Ferdowsi University of Mashhad
-        caption: 2015 - 2019
+        caption: Sep 2015 - Sep 2019
         quote: >
           Accepted in the entrance exam (2080 th person out of 50000 people) 
         description: | # this will include new lines to allow paragraphs
