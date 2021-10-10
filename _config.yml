@@ -101,48 +101,27 @@ content:
           
   - title: Projects
     layout: list
-    content:
+    content:   
       - layout: left
         title: Master Thesis
-        sub_title: Feb 2020 - Jan 2019
-#         caption: Date Range (eg. November 2016 - present)
-#         link: Link to company (optional)
-#         quote: >
-#           Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          finding entity  form text  input with the help of deep neurall networks.
-          
-     - layout: left
-        title: Master Thesis
         sub_title: Feb 2020 - present
-#         caption: Date Range (eg. November 2016 - present)
-#         link: Link to company (optional)
-#         quote: >
-#           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           finding entity  form text  input with the help of deep neurall networks.
           
       - layout: left
         title: nlp on corona datas
         sub_title: 2020
-#         caption: Date Range (eg. November 2016 - present)
-#         link: Link to company (optional)
-#         quote: >
-#           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           we processed some data of corona which where the qustions asked by people in social medias.
           
-     - layout: left
+      - layout: left
         title: BSC project
         sub_title: Feb 2018 - Sep 2019
-#         caption: Date Range (eg. November 2016 - present)
-#         link: Link to company (optional)
-#         quote: >
             Examining the pattern of electricity consumption with the help of machine learning.
         description: | # this will include new lines to allow paragraphs.
           implementation was on matlab.
           
-     - layout: left
+      - layout: left
         title: Baby care doll
         sub_title: 2017
 #         caption: Date Range (eg. November 2016 - present)
@@ -151,8 +130,6 @@ content:
 #           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           i used 2 arduino and 2 nrf which could comunicate to each other. one in a doll which was listening and if the baby would cry then the other arduino wolud start alerting. 
-          
-
           
   - title: Education
     layout: list
