@@ -7,6 +7,7 @@ version: 2
 
 # Personal info
 name: Zahra Amirmahani
+title: data engineer
 email: zahra.m245@gmail.com
 # email_title: Email (Email title override)
 phone: 0989377883218
@@ -19,7 +20,7 @@ darkmode: false
 
 # Social links
 github_username: zahramahani
-linkedin_username: zahra mahani
+linkedin_username: zahra-mahani-9290aa141
 
 # Additional icon links
 # additional_links:
@@ -39,7 +40,7 @@ linkedin_username: zahra mahani
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/zahra.png
-about_content: Im zahra Amirmahani from Kerman/Iran. im 25 years old. my Research Interests are data mining, big data and natural language processing. i am working in data engineering and data analysis section of <a href="https://www.partdp.ir"> part </a> compony for 2 years besides of educating in MSC.
+about_content: Im zahra Amirmahani from Kerman/Iran. im 25 years old. my Research Interests are data mining, big data and natural language processing. i am working in data engineering and data analysis section of <a href="https://www.partdp.ir"> part </a> company for 2 years besides of educating in MSC.
 
 content:
   - title: Projects # Title for the section
