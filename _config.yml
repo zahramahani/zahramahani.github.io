@@ -82,7 +82,7 @@ content:
         quote: >
           Accepted in the entrance exam as well as brilliant talent (7th person out of 72 class mate in BSC) 
         description: | # this will include new lines to allow paragraphs
-          Grade: 17.78 (3.74/4)
+          Grade: 17.78 (3.74/4)\
           Passed Courses: 
           - advanced Information Reterival 
           - semantic web 
@@ -99,7 +99,7 @@ content:
         quote: >
           Accepted in the entrance exam (2080 th person out of 50000 people) 
         description: | # this will include new lines to allow paragraphs
-          Grade: 17.60
+          Grade: 17.60\
           Major Passed Courses: 
           - data analysis
           - machine learning
