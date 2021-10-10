@@ -22,7 +22,7 @@ darkmode: false
 github_username: zahramahani
 linkedin_username: zahra-mahani-9290aa141
 about_profile_image: images/zahra.png
-about_content: I'm zahra Amirmahani, 25 years old, from Kerman/Iran. my Research Interests are Data mining, Big data and Natural Language Processing.I have been working in the data engineering and data analysis department of the <a href="https://www.partdp.ir"> part </a> company for 2 years besides of educating in MSC.
+about_content: I'm zahra Amirmahani, 25 years old, from Kerman/Iran. my Research Interests are Data mining, Big data and Natural Language Processing.I have been working in the Data Engineering and Data Analysis department of the <a href="https://www.partdp.ir"> part </a> company for 2 years besides of educating in MSC.
 
 
 content:
@@ -57,10 +57,9 @@ content:
           Bigdata course teached by Dr.ensan
           
       - layout: left
-        title: Data engineer - Data analyst 
+        title: Data Engineer - Data Analyst 
         quote: >
-          working in data engineering and data analysis section of <a href="https://www.partdp.ir"> part </a> company for 2 years.
-           (Oct 2019 - Present)
+          Oct 2019 - Present
         description: | # this will include new lines to allow paragraphs
           In this section, me and my co-workers are working on databases (postgresql - mongodb - redis - sqlite) and trying to manage replicas,failover and fail back.
           During this 2 years I colud improve the search speed of postgresql with writing custom parser, analysing some data and working on big data (hdfs - map reduce - yarn of hadoop and spark).
