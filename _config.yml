@@ -39,7 +39,7 @@ linkedin_username: zahra mahani
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/zahra.png
-about_content: Im zahra Amirmahani from Kerman/Iran. im 25 years old. my Research Interests are data mining, big data and natural language processing. i am working in data engineering and data analysis section of [part] (www.partdp.ir) compony for 2 years besides of educating in MSC.
+about_content: Im zahra Amirmahani from Kerman/Iran. im 25 years old. my Research Interests are data mining, big data and natural language processing. i am working in data engineering and data analysis section of (part) (www.partdp.ir) compony for 2 years besides of educating in MSC.
 
 content:
   - title: Projects # Title for the section
