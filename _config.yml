@@ -39,14 +39,7 @@ linkedin_username: zahra mahani
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/zahra.png
-about_content:  # this will include new lines to allow paragraphs
-  # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-  #   - Lists
-  #   - Tables
-  #   - <a href="google.com">Links</a>
-  #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
+about_content: 
 
 content:
   - title: Projects # Title for the section
@@ -82,8 +75,8 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: MSC
+      - layout: top-left
+        - title: MSC
         sub_title: software engineering at Ferdowsi University of Mashhad
         caption: 2019 - till now 
         quote: >
@@ -100,7 +93,7 @@ content:
           - advanced database 
           - advanced algorithem
 
-        title: BSC
+        - title: BSC
         sub_title: software engineering at Ferdowsi University of Mashhad
         caption: 2015 - 2019
         quote: >
@@ -118,8 +111,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - drawing (water color - hyper real), sculpturing
-      - riding a bike and basket ball
-      - cooking specially preparing desserts.
+      - riding a bike and playing basket ball
+  
       
 # Footer
 footer_show_references: true
