@@ -47,6 +47,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: javaspring internship
+        quote: >
+          FANAP
+          Jun 2020 - Jul 2020
+        description: | # this will include new lines to allow paragraphs
+          In this enternship i could learn jdbc, hibernate and creating web service with java.
+          
+      - layout: left
+        title: Teaching Assistant
+        quote: >
+          Ferdowsi University of Mashhad
+          Feb 2020 - Jun 2020
+        description: | # this will include new lines to allow paragraphs
+          Bigdata course teached by Dr.ensan
+          
+      - layout: left
         title: data engineer - data analyst 
         quote: >
           working in data engineering and data analysis section of <a href="https://www.partdp.ir"> part </a> company for 2 years.
@@ -70,23 +86,9 @@ content:
           Jul 2020 - Jul 2020
         description: | # this will include new lines to allow paragraphs
           I participated in this school and could learn about algorithem - Machine learning methods - big data - softwares like tableau relating to data.
+          
+          
           ![certificate](/images/z amirmahani.jpg)
-          
-      - layout: left
-        title: javaspring internship
-        quote: >
-          FANAP
-          Jun 2020 - Jul 2020
-        description: | # this will include new lines to allow paragraphs
-          In this enternship i could learn jdbc, hibernate and creating web service with java.
-          
-      - layout: left
-        title: Teaching Assistant
-        quote: >
-          Ferdowsi University of Mashhad
-          Feb 2020 - Jun 2020
-        description: | # this will include new lines to allow paragraphs
-          Bigdata course teached by Dr.ensan
           
       - layout: left
         title: Teaching Assistant
