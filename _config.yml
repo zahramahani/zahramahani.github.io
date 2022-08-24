@@ -62,7 +62,7 @@ content:
           Oct 2019 - Present
         description: | # this will include new lines to allow paragraphs
           In this section, me and my co-workers are working on databases (postgresql - mongodb - redis - sqlite) and trying to manage replicas,failover and fail back.
-          During this 2 years I colud improve the search speed of postgresql with writing custom parser, analysing some data and working on big data (hdfs - map reduce - yarn of hadoop and spark).
+          During this 2 years I colud improve the search speed of postgresql with writing <a href="https://github.com/zahramahani/Comma-Parser"> custom parser </a>, analysing some data and working on big data (hdfs - map reduce - yarn of hadoop and spark).
           projects was created are
                CanGrow which saves and process datas in distributed mode
                cooKey as a c based inverted index
