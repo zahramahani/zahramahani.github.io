@@ -93,6 +93,7 @@ content:
         sub_title: Feb 2020 - present
         description: | # this will include new lines to allow paragraphs
           finding entity  form text  input with the help of deep neurall networks.
+          paper can be accessed from here: https://dl.acm.org/doi/10.1145/3477495.3531888
           
       - layout: left
         title: NLP on Corona Data
