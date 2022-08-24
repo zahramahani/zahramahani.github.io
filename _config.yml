@@ -102,7 +102,7 @@ content:
         title: NLP on Corona Data
         sub_title: 2020
         description: | # this will include new lines to allow paragraphs
-          we processed some data of corona, which were the qustions asked by people in social medias.
+          we processed some data of corona, which were the qustions asked by people in social medias. 
           
       - layout: left
         title: BSC Project
